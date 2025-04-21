@@ -1,5 +1,5 @@
-# Skillovilla-Airline-DB-SQL-Capstone-Project-
-Airline DB SQL Capstone Project – Skillovilla (2025)
+# DB-SQL-Capstone-Project-
+DB SQL Capstone Project – 
 Objective:
 Analyze AirlineDB using SQL to extract operational and customer insights for better decision-making in the aviation sector.
 
